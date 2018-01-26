@@ -3,6 +3,18 @@
 A simple script to let the machine check how many messeges were really yours (not really).   
 It takes simple usage of NLTK libraries to train itself with the conversation.   
 
+### Technical Features
+*Inclusions*:
+1. A Jupyter Notebook (for better visuals)
+2. A python Script (for ultimate Result)
+
+*Dependencies*:
+1. Python >= 2.7.x
+2. sklearn module
+3. matplotlib and seaborn libraries
+4. pandas and numpy library
+
+
 ### What does this version offers?
 
 Well, for introductory version **1.0** this application offers you to just train your data and let the machine show you how accurate it is
